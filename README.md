@@ -1,10 +1,11 @@
 # React-Github-Battle
 Github Battle SPA with React.js
 
+Live Demo : [Github Battle](https://extwiii-react-github-battle.firebaseapp.com/)
+
 Features
 --------
 - React.js 
-- Redux
 - Babel
 - Webpack
 - Firebase
